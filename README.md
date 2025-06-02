@@ -25,9 +25,9 @@ Simple personal finance tracker using Python, Tkinter, and SQLite
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/MohamedKandil14/expense-tracker
-cd expense-tracker
+
 
 
 
@@ -41,5 +41,4 @@ Run the application:
 
 python gui.py
 ----------------------------------
-نسخ
-تحر
+
